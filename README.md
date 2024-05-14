@@ -6,10 +6,10 @@
 2. Install dependencies: `npm install`
 3. Set up environment variables:
    - Create a `.env` file in the root directory
-   #MONGO_URI=your created mongodb string
-   #jws_secret_key
-   #USER=user email
-   #APP_PASSWORD=mail app password
+   -#MONGO_URI=your created mongodb string
+   -#jws_secret_key
+   -#USER=user email
+   -#APP_PASSWORD=mail app password
 
 ### Usage
 
